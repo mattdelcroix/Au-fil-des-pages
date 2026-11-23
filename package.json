@@ -13,5 +13,10 @@
   "dependencies": {
     "express": "^5.1.0",
     "pg": "^8.16.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.15.0",
+    "globals": "^17.14.0"
   }
 }

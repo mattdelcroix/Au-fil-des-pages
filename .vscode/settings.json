@@ -1,0 +1,4 @@
+{
+    "github.copilot.enable": { "dotenv": false },
+    "editor.formatOnSave": true
+}
